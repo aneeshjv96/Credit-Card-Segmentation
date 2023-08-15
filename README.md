@@ -7,4 +7,4 @@ Utilizing the K-Means algorithm for credit card customer segmentation:
 * Employed the K-Means algorithm, with the optimal number of clusters determined through the silhouette score.
 * Employed Principal Component Analysis (PCA) to reduce dimensionality, leading to enhanced visualization.
 
-![alt text](http://url/to/img.png)
+![alt text]([http://url/to/img.png](https://github.com/aneeshjv96/Credit-Card-Segmentation/blob/main/Screenshot%202023-08-14%20at%2011.06.05%20PM.png)https://github.com/aneeshjv96/Credit-Card-Segmentation/blob/main/Screenshot%202023-08-14%20at%2011.06.05%20PM.png)
