@@ -1,8 +1,8 @@
 # CC_segmentation
-Credit card customer segmentation using K-Means algorithm
+Utilizing the K-Means algorithm for credit card customer segmentation:
 
-* Created a model that estimate credit card customer segmentation to help the company to define marketing strategy.
-* The sample Dataset summarizes the usage behavior of about 9000 active credit card holders during the last 6 months.
-* The file is at a customer level with 18 behavioral variables.
-* Using K-Means algorithm with the K value determined by silhouette score.
-* Using PCA for dimension reduction and better visualization.
+* Developed a model to effectively categorize credit card customers, aiding the company in refining their marketing strategies.
+* Analyzed a sample Dataset encompassing the spending patterns of approximately 9000 active credit card holders over the preceding 6 months.
+* The dataset is organized at the customer level and incorporates 18 distinct behavioral variables.
+* Employed the K-Means algorithm, with the optimal number of clusters determined through the silhouette score.
+* Employed Principal Component Analysis (PCA) to reduce dimensionality, leading to enhanced visualization.
